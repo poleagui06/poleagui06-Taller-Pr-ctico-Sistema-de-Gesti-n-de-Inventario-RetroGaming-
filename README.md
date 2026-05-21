@@ -43,10 +43,18 @@ El programa ejecuta satisfactoriamente el ciclo completo solicitado. El archivo 
 
 A continuación, se adjuntan las evidencias de la ejecución completa del archivo principal (`Main.java`):
 
-#### 🔄 1. Ingreso de Datos e Inventario Inicial (Pasos 1 al 4)
-*Aquí se evidencia la captura por teclado de los 3 videojuegos y el despliegue del reporte acumulado en la memoria RAM.*
+#### 1. Ingreso de Datos e Inventario Inicial (Pasos 1 al 4)
+
+<img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/c7a52f85-0176-4222-b719-83f4b7a9a991" />
+
 #### 💾 2. Serialización y Reinicio Simulado (Pasos 5 y 6)
-*Evidencia del guardado exitoso en el archivo físico y la posterior creación de un nuevo inventario vacío para el experimento.*
+
+<img width="589" height="191" alt="image" src="https://github.com/user-attachments/assets/cf837861-2cd0-4fe0-9440-73de6deff294" />
+
+
 #### 📂 3. Deserialización y Recuperación Completa (Pasos 7 y 8 + Búsqueda)
-*Demostración de que el sistema reconstruyó los objetos intactos desde el disco duro y validación del motor de búsqueda por plataforma.*
+
+<img width="758" height="416" alt="image" src="https://github.com/user-attachments/assets/14115749-6f62-4455-ac2f-46d4f4212d5c" />
+
+
 ---
