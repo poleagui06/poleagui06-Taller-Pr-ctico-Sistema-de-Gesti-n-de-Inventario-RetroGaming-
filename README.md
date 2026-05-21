@@ -1,1 +1,1 @@
-# poleagui06-Taller-Pr-ctico-Sistema-de-Gesti-n-de-Inventario-RetroGaming-
+# poleagui06-Taller-Practico-Sistema-de-Gestión-de-Inventario-RetroGaming-
