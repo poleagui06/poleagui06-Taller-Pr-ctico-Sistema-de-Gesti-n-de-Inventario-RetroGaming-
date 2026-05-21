@@ -47,12 +47,12 @@ A continuación, se adjuntan las evidencias de la ejecución completa del archiv
 
 <img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/c7a52f85-0176-4222-b719-83f4b7a9a991" />
 
-#### 💾 2. Serialización y Reinicio Simulado (Pasos 5 y 6)
+#### 2. Serialización y Reinicio Simulado (Pasos 5 y 6)
 
 <img width="589" height="191" alt="image" src="https://github.com/user-attachments/assets/cf837861-2cd0-4fe0-9440-73de6deff294" />
 
 
-#### 📂 3. Deserialización y Recuperación Completa (Pasos 7 y 8 + Búsqueda)
+#### 3. Deserialización y Recuperación Completa (Pasos 7 y 8 + Búsqueda)
 
 <img width="758" height="416" alt="image" src="https://github.com/user-attachments/assets/14115749-6f62-4455-ac2f-46d4f4212d5c" />
 
